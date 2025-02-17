@@ -1,1 +1,1 @@
-<img src="text_to_image.png" width="400">
+<img src="text-to-image.png" width="400">
